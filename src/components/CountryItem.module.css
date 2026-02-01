@@ -17,3 +17,10 @@
   font-size: 3rem;
   line-height: 1;
 }
+
+.flag {
+  width: 48px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 3px;
+}
