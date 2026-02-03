@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Ras Muhammad National Park",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2026-02-03T12:06:51.328Z",
+      "notes": "",
+      "position": {
+        "lat": "27.78863366952942",
+        "lng": "34.27732512942912"
+      },
+      "id": 98443198
     }
   ]
 }
